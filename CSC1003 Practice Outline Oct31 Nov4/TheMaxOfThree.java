@@ -2,7 +2,7 @@
 Write a static method max3() that takes three int arguments and returns the value of the
 largest one. Add an overloaded function that does the same thing with three double values.
  */
-public class RemovingRepeatedValues
+public class TheMaxOfThree
 {
     public static void main(String[] args)
     {
